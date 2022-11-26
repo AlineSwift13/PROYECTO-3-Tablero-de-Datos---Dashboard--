@@ -21,7 +21,7 @@ Este proyecto es un Dashboard conectado a una API pública y la creación de gr�
 Me dedique a los Pókemon que más me gustan, los más populares, más fuertes y sacar la información de ellos. 
 Este proyecto esta desarrollado en Bootstrap, Node JS y JavaScript.
 ### Logotipo Negocio:
-![logo](https://user-images.githubusercontent.com/111624621/197110968-fb748f2c-78a0-4ded-947e-f69bf1175aa7.png)
+![Logo Pokemon](https://user-images.githubusercontent.com/111624621/204070507-37a4add2-6aa8-4c0c-a5ca-07be6714f92b.png)
 
 ## Descripción
 ***
