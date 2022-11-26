@@ -28,8 +28,7 @@ Este proyecto esta desarrollado en Bootstrap, Node JS y JavaScript.
 En este  proyecto me enfoque en darle una buena vista por medio de cards con efecto hover, colores e iconos según el Pókemo. El uso de Bootstrap y librerias acopladas al proyecto, contemplando el uso y visualización en Diseño responsivo.
 
 ### Prototipo CRUD Maquetación Simple y de Diseño a detalle:
-![prototipo crud](https://user-images.githubusercontent.com/111624621/197112307-8680c67e-a2f0-4430-ab4b-2ed98c2dd83d.png)
-
+![prototipo](https://user-images.githubusercontent.com/111624621/204071225-974dd731-0187-46cb-bd11-d2719e722c8d.jpg)
 
 ## Contenidos
 ***
