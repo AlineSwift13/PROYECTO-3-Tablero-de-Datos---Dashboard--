@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index Dashboard</title>
+    <link rel="icon" href="./images/fav-icon.png" type="image/x-icon">
+     <!-- Css -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+
+    <div id="pcoded" class="pcoded">
+        <div class="pcoded-overlay-box"></div>
+        <div class="pcoded-container navbar-wrapper">
+            <nav class="navbar header-navbar pcoded-header">
+                <div class="navbar-wrapper">
+                    <div class="navbar-logo">
+                        <a class="mobile-menu" id="mobile-collapse" href="#!">
+                            <i class="fa-solid fa-bars"></i>
+                        </a>
+                        <a href="index.html">
+                            <img class="img-fluid" src="./images/Logo Pokemon.png" alt="Theme-Logo" />
+                        </a> 
+                    </div>
+                    
+                </div>
+            </nav>
+            <div class="pcoded-main-container">
+                <div class="pcoded-wrapper">
+                    <nav class="pcoded-navbar">
+                        <div class="sidebar_toggle"><a href="#"><i class="icon-close icons"></i></a></div>
+                        <div class="pcoded-inner-navbar main-menu">
+                            <div class="pcoded-navigatio-lavel" data-i18n="nav.category.navigation">Home</div>
+                            <ul class="pcoded-item pcoded-left-item">
+                                <li class="active">
+                                    <a href="index.html">
+                                        <span class="pcoded-micon"><i class="fa-sharp fa-solid fa-chart-line"></i></span>
+                                        <span class="pcoded-mtext" data-i18n="nav.dash.main">Dashboard</span>
+                                        <span class="pcoded-mcaret"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <div class="pcoded-content">
+                        <div class="pcoded-inner-content">
+                            <div class="main-body">
+                                <div class="page-wrapper">
+                                    <div class="page-body">
+                                        <div class="row">
+                                            <!-- cards Start -->
+                                            <div class="col-md-6 col-xl-3">
+                                                <div class="card widget-card-1">
+                                                    <div  class="card-block-small">
+                                                        
+                                                        <i class="fa-solid fa-droplet bg-c-blue card1-icon"></i>
+                                                        <span class="text-c-blue f-w-600">Pokémon</span>
+                                                        
+                                                        <div id="poke1">
+                                                            <span class="f-left m-t-10 text-muted">
+                                                                <i class="text-c-blue f-16 icofont icofont-warning m-r-10"></i><script src="main.js"></script>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-xl-3">
+                                                <div class="card widget-card-1">
+                                                    <div  class="card-block-small">
+                                                        <i class="fa-solid fa-fire-flame-curved bg-c-pink card1-icon"></i>
+                                                        <span class="text-c-pink f-w-600">Pokémon</span>
+                                                        
+                                                        <div id="poke2">
+                                                            <span class="f-left m-t-10 text-muted">
+                                                                <i class="text-c-pink f-16 icofont icofont-calendar m-r-10"></i><script src="main.js"></script>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-xl-3">
+                                                <div class="card widget-card-1">
+                                                    <div class="card-block-small">
+                                                        <i class="fa-solid fa-leaf bg-c-green card1-icon"></i>
+                                                        <span class="text-c-green f-w-600">Pokémon</span>
+                                                        <div id="poke3">
+                                                            <span class="f-left m-t-10 text-muted">
+                                                                <i class="text-c-green f-16 icofont icofont-tag m-r-10"></i><script src="main.js"></script>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-xl-3">
+                                                <div class="card widget-card-1">
+                                                    <div class="card-block-small">
+                                                        <i class="fa-solid fa-bolt-lightning bg-c-yellow card1-icon"></i>
+                                                        <span class="text-c-yellow f-w-600">Pokémon</span>
+                                                        <div id="poke4">
+                                                            <span class="f-left m-t-10 text-muted">
+                                                                <i class="text-c-yellow f-16 icofont icofont-refresh m-r-10"></i><script src="main.js"></script>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- cards end -->
+                                            
+                                            <!-- Statestics Start -->
+                                            <div class="col-md-12 col-xl-8">
+                                                <div class="card">
+                                                    <div class="card-header">
+                                                        
+                                                        <h5>Los Pokémon Favoritos en %</h5>
+                                                        <div class="card-header-left ">
+                                                        </div>
+                                                        <div class="card-header-right">
+                                                            <ul class="list-unstyled card-option">
+                                                                <li><i class="icofont icofont-simple-left "></i></li>
+                                                                <li><i class="icofont icofont-maximize full-card"></i></li>
+                                                                <li><i class="icofont icofont-minus minimize-card"></i></li>
+                                                                <li><i class="icofont icofont-refresh reload-card"></i></li>
+                                                                <li><i class="icofont icofont-error close-card"></i></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-block">
+                                                        <div id="statestics-chart" style="height:517px;"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12 col-xl-4">
+                                                <div class="card fb-card">
+                                                    <div class="card-header">
+                                                        <i class="fa-brands fa-phoenix-framework"></i>
+                                                        <div class="d-inline-block">
+                                                            <h5>Los mejor Pokémon</h5>
+                                                            <span>Por Fuerza</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-block text-center">
+                                                        <canvas id="line-chart" width="800" height="450"></canvas>
+                                                    </div>
+                                                </div>
+                                                <div class="card fb-card">
+                                                    <div class="card-header">
+                                                        <i class="fa-solid fa-otter"></i>                                                      <div class="d-inline-block">
+                                                            <h5>Los peores Pokémon</h5>
+                                                            <span>Por Fuerza</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="card-block text-center">
+                                                        <canvas id="pie-chart" width="800" height="450"></canvas>
+                                                    </div>
+                                                </div>
+                                                </div>
+                                                
+                                              <!-- Statestics End -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- Js -->
+<script type="text/javascript" src="./js/jquery.min.js"></script>
+<script src="./js/amcharts.js"></script>
+<script src="./js/main.js"></script>
+<script src="./js/menu.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="./js/charts.js"></script>
+</body>
+</html>
