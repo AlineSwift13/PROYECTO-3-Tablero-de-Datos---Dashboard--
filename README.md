@@ -20,7 +20,7 @@ Es un Dashboard conectado a una API pública, en este caso el asunto es de Póke
 Este proyecto es un Dashboard conectado a una API pública y la creación de gráficas con Chart.js y AmChart.js 
 Me dedique a los Pókemon que más me gustan, los más populares, más fuertes y sacar la información de ellos. 
 Este proyecto esta desarrollado en Bootstrap, Node JS y JavaScript.
-### Logotipo Negocio:
+### Logotipo Dashboard:
 ![Logo Pokemon](https://user-images.githubusercontent.com/111624621/204070507-37a4add2-6aa8-4c0c-a5ca-07be6714f92b.png)
 
 ## Descripción
