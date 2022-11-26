@@ -42,7 +42,8 @@ Este proyecto contiene:
 6. Librerias externas y sus links.
 
 ### Imagen de Contenidos:
-![contenidos](https://user-images.githubusercontent.com/111624621/197112430-c26fdc59-8a4b-463f-b660-882e8f376ff4.png)
+![contenidos](https://user-images.githubusercontent.com/111624621/204070604-10c0ed68-8aa2-4cde-bd67-7b3f8b8ac0f2.png)
+
 
 ## Conclusión
 ***
