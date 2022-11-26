@@ -25,7 +25,8 @@ Este proyecto esta desarrollado en Bootstrap, Node JS y JavaScript.
 
 ## Descripción
 ***
-En este  proyecto me enfoque en darle una buena vista por medio de cards con efecto hover, colores e iconos según el Pókemo. El uso de Bootstrap y librerias acopladas al proyecto, contemplando el uso y visualización en Diseño responsivo.
+En este  proyecto me enfoque en darle una buena vista por medio de cards con efecto hover, colores e iconos según el Pókemo. El uso de Bootstrap y librerias acopladas al proyecto, contemplando el uso y visualización en Diseño responsivo. La API usada fue "https://pokeapi.co/". Especifique los Pókemon Favoritos y los no tantos, su uso, su preferencia, fuerza, tamaños y toda la clasificación de ellos. Se implemento el uso de Promesas, el Node.js para el servidor, el uso de Fetch y se especifico que datos necesitaba mostrar de la API.
+Así como las librerias para la creación de gráficas.
 
 ### Prototipo CRUD Maquetación Simple y de Diseño a detalle:
 ![prototipo](https://user-images.githubusercontent.com/111624621/204071225-974dd731-0187-46cb-bd11-d2719e722c8d.jpg)
