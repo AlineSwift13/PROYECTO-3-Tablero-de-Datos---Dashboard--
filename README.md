@@ -51,7 +51,7 @@ Este proyecto fue un reto para mi, puesto a que había trabajado con dashboard p
 Espero en verdad sea un buen proyecto y cumpla con los objetivos, pues aprendizaje tuve mucho y reto el doble. 
 
 ### Adjunto prueba de Commits:
-![commits](https://user-images.githubusercontent.com/111624621/197113413-85c46a57-26a4-48d8-9cb1-15f0e073b838.png)
+![commits](https://user-images.githubusercontent.com/111624621/204070649-73a13055-ed37-455e-834b-e030e65fa7a7.png)
 
 ## Finalización de Proyecto
 ***
