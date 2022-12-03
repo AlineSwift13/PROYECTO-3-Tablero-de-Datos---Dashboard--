@@ -1,3 +1,5 @@
+import  {POKEMON} from "./validation.js";
+console.log(POKEMON)
 const url='https://pokeapi.co/api/v2/pokemon/7/'
 const url1='https://pokeapi.co/api/v2/pokemon/4/'
 const url2='https://pokeapi.co/api/v2/pokemon/1/'
